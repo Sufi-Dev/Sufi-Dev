@@ -18,6 +18,6 @@ I can design, implement, operate, and monitor CI/CD pipelines using configuratio
 3) Deployed a Dockerized Java app to Azure Web App for Containers
 
   <a href="https://github.com/Sufi-Dev/weatherapi"> <img src="https://github.com/Sufi-Dev/weatherapi/blob/main/weatherapi.png" width="300"/></a>
-  <a href="https://github.com/Sufi-Dev/weatherapi"> <img src="https://github.com/Sufi-Dev/Blue-Green-Deployment/blob/main/BlueGreen.png" width="250"/></a>
+  <a href="https://github.com/Sufi-Dev/Blue-Green-Deployment"> <img src="https://github.com/Sufi-Dev/Blue-Green-Deployment/blob/main/BlueGreen.png" width="250"/></a>
 
  
