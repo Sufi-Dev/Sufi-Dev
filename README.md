@@ -25,6 +25,8 @@ I'm skilled in design, implement, operate, and monitor CI/CD pipelines as well a
 <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/mysql.svg" alt="mysql" width="40" height="20"/> Mysql
 <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/aws_x.svg" alt="aws" width="40" height="20"/>AWS
 <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/java.svg" alt="java" width="40" height="20"/>Java
+<img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/blockchain.svg" alt="java" width="40" height="20"/>Blockchain
+
 
 ## Examples of Work
 1) Designed & deployed fully automated CI/CD in Azure DevOps
