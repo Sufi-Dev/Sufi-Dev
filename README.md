@@ -3,7 +3,7 @@
 </p>
 
 # Abdalla Sufi
-Hi 👋, I am a certified DevOps engineer with nearly two years of Microsoft Azure experience.
+Hi 👋, I'm a certified DevOps engineer with nearly two years of Microsoft Azure experience.
 I'm skilled in design, implement, operate, and monitor CI/CD pipelines as well as configuration management and Infrastructure as code.
 
 👉 I am currently looking for a `DevOps` role preferably in the `Blockchain` industry.
