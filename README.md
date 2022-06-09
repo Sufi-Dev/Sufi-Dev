@@ -14,7 +14,7 @@ I can design, implement, operate, and monitor CI/CD pipelines using configuratio
  <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/azure.svg" alt="azure" width="40" height="20"/>Azure
  <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/AzureDevOps.svg" alt="azure devops" width="40" height="20"/>Azure DevOps
  <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/linux.svg" alt="linux" width="40" height="20"/>Linux
- <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/docker.svg" alt="docker" width="40" height="20"/>Docker
+ <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/docker_x.svg" alt="docker" width="40" height="20"/>Docker
  <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/jenkins.svg" alt="jenkins" width="40" height="20"/>Jenkins
  <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/git.svg" alt="git" width="40" height="20"/> Git
  <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/kubernetes.svg" alt="kubernetes" width="40" height="20"/> Kubernetes
