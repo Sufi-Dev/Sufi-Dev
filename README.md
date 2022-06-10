@@ -32,7 +32,7 @@ I'm skilled in design, implement, operate, and monitor CI/CD pipelines as well a
 ### 1) Designed & deployed fully automated CI/CD in Azure DevOps
 <a href="https://github.com/Sufi-Dev/weatherapi"> <img src="https://github.com/Sufi-Dev/weatherapi/blob/main/weatherapi.png" width="100%"/></a>
 ### 2) Deployed Infrastructure based on Blue Green Deployment Pattern | Terraform
-<a href="https://github.com/Sufi-Dev/Blue-Green-Deployment">  <img src="https://github.com/Sufi-Dev/Blue-Green-Deployment/blob/main/BlueGreen.png" width="100%"/></a>
+<a href="https://github.com/Sufi-Dev/Blue-Green-Deployment">  <img src="https://github.com/Sufi-Dev/Blue-Green-Deployment/blob/main/BlueGreens.png" width="100%"/></a>
 <!--  
 // 3) Deployed a multi-container application to Azure Kubernetes Services
 // 5) Deployed a Dockerized Java app to Azure Web App for Containers
