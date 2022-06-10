@@ -33,10 +33,9 @@ I'm skilled in design, implement, operate, and monitor CI/CD pipelines as well a
 2) Deployed a multi-container application to Azure Kubernetes Services
 3) Deployed a Dockerized Java app to Azure Web App for Containers
 
-<div style="text-align: center; border: 5px solid red">
   <a href="https://github.com/Sufi-Dev/weatherapi"> <img src="https://github.com/Sufi-Dev/weatherapi/blob/main/weatherapi.png" width="300"/></a>
-  <p>Designed & deployed fully automated CI/CD in Azure DevOps</p>
-</div>
-  <a href="https://github.com/Sufi-Dev/Blue-Green-Deployment"> <img src="https://github.com/Sufi-Dev/Blue-Green-Deployment/blob/main/BlueGreen.png" width="250"/></a>
+ 
+
+<a href="https://github.com/Sufi-Dev/Blue-Green-Deployment"> <img src="https://github.com/Sufi-Dev/Blue-Green-Deployment/blob/main/BlueGreen.png" width="300"/></a>
 
  
