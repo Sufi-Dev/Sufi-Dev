@@ -3,7 +3,7 @@
 </p>
 
 # Abdalla Sufi
-Hi 👋, I am a certified DevOps engineer with nearly two years of Microsoft Azure experience.
+Hi 👋, I'm a certified DevOps engineer with nearly two years of Microsoft Azure experience.
 I'm skilled in design, implement, operate, and monitor CI/CD pipelines as well as configuration management and Infrastructure as code.
 
 👉 I am currently looking for a `DevOps` role preferably in the `Blockchain` industry.
@@ -25,13 +25,17 @@ I'm skilled in design, implement, operate, and monitor CI/CD pipelines as well a
 <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/mysql.svg" alt="mysql" width="40" height="20"/> Mysql
 <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/aws_x.svg" alt="aws" width="40" height="20"/>AWS
 <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/java.svg" alt="java" width="40" height="20"/>Java
+<img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/blockchain.svg" alt="java" width="40" height="20"/>Blockchain
+
 
 ## Examples of Work
-1) Designed & deployed fully automated CI/CD in Azure DevOps
-2) Deployed a multi-container application to Azure Kubernetes Services
-3) Deployed a Dockerized Java app to Azure Web App for Containers
-
-  <a href="https://github.com/Sufi-Dev/weatherapi"> <img src="https://github.com/Sufi-Dev/weatherapi/blob/main/weatherapi.png" width="300"/></a>
-  <a href="https://github.com/Sufi-Dev/Blue-Green-Deployment"> <img src="https://github.com/Sufi-Dev/Blue-Green-Deployment/blob/main/BlueGreen.png" width="250"/></a>
+### 1) Designed & deployed fully automated CI/CD in Azure DevOps
+<a href="https://github.com/Sufi-Dev/weatherapi"> <img src="https://github.com/Sufi-Dev/weatherapi/blob/main/weatherapi.png" width="100%"/></a>
+### 2) Deployed Infrastructure based on Blue Green Deployment Pattern | Terraform
+<a href="https://github.com/Sufi-Dev/Blue-Green-Deployment">  <img src="https://github.com/Sufi-Dev/Blue-Green-Deployment/blob/main/BlueGreen.png" width="100%"/></a>
+<!--  
+// 3) Deployed a multi-container application to Azure Kubernetes Services
+// 5) Deployed a Dockerized Java app to Azure Web App for Containers
+  -->
 
  
