@@ -14,14 +14,14 @@ I'm skilled in designing, implementing, operating, and monitoring CI/CD pipeline
 <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/linux.svg" alt="linux" width="40" height="20"/>Linux
 <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/docker_x.svg" alt="docker" width="40" height="20"/>Docker
 <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/jenkins.svg" alt="jenkins" width="40" height="20"/>Jenkins
-<img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/git.svg" alt="git" width="40" height="20"/> Git
-<img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/kubernetes.svg" alt="kubernetes" width="40" height="20"/> Kubernetes
-<img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/python.svg" alt="python" width="40" height="20"/> Python
-<img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/bash.svg" alt="bash" width="40" height="20"/> Bash
+<img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/git.svg" alt="git" width="40" height="20"/>Git
+<img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/kubernetes.svg" alt="kubernetes" width="40" height="20"/>Kubernetes
+<img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/python.svg" alt="python" width="40" height="20"/>Python
+<img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/bash.svg" alt="bash" width="40" height="20"/>Bash
 <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/powershell.svg" alt="powershell" width="40" height="20"/> Powershell
-<img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/nginx.svg" alt="nginx" width="40" height="20"/> Nginx
+<img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/nginx.svg" alt="nginx" width="40" height="20"/>Nginx
 <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/mongodb.svg" alt="mongodb" width="40" height="20"/> MongoDB
-<img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/mysql.svg" alt="mysql" width="40" height="20"/> Mysql
+<img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/mysql.svg" alt="mysql" width="40" height="20"/>Mysql
 <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/aws_x.svg" alt="aws" width="40" height="20"/>AWS
 <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/java.svg" alt="java" width="40" height="20"/>Java
 <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/blockchain.svg" alt="Blockchain" width="40" height="20"/>Blockchain
