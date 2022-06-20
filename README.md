@@ -6,7 +6,7 @@
 Hi 👋, I'm a certified cloud engineer with nearly two years of Microsoft Azure experience.
 I'm skilled in designing, implementing, operating, and monitoring CI/CD pipelines as well as configuration management and Infrastructure as code.
 
-👉 I am looking for a `DevOps` and `SRE` roles Preferably in the blockcahin industry at the moment.
+👉 I am looking for a `DevOps` role Preferably in the blockcahin industry at the moment.
 ## Skills and Experience
 
 <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/azure.svg" alt="azure" width="40" height="20"/>Azure
