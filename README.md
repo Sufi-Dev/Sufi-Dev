@@ -31,7 +31,7 @@ I'm skilled in designing, implementing, operating, and monitoring CI/CD pipeline
 <!-- <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/icons/solidity.svg" alt="java" width="40" height="20"/>Solidity -->
 
 
-## Examples of Work
+## Examples of Work 👇
 
 #### 1) Deployed Infrastructure based on Blue Green Deployment Pattern | Terraform
 <hr>
