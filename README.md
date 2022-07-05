@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.pngitem.com/pimgs/m/174-1745736_devops-developer-hd-png-download.png" />
+  <img src="https://raw.githubusercontent.com/Sufi-Dev/Sufi-Dev/main/gradient-devops-illustration_23-2149370941.webp" />
 </p>
 
 # Abdalla Sufi
