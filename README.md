@@ -3,8 +3,7 @@
 </p>
 
 # Abdalla Sufi
-Hi 👋, I'm a certified cloud engineer with nearly two years of Microsoft Azure experience.
-I'm skilled in designing, implementing, operating, and monitoring CI/CD pipelines as well as configuration management and Infrastructure as code.
+Hi 👋, I'm a certified cloud engineer with two years of experience. I develop, implement, operate, and monitor cloud workloads, CI/CD pipelines, configuration management, and infrastructure as code.
 
 <!-- 👉 I am looking for a `DevOps` role Preferably in the blockcahin industry at the moment. -->
 ## Skills and Experience
