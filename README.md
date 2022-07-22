@@ -3,7 +3,7 @@
 </p>
 
 # Abdalla Sufi
-Hi 👋, I'm a certified cloud engineer with two years of experience. I develop, implement, operate, and monitor cloud workloads, CI/CD pipelines, configuration management, and infrastructure as code.
+Certified cloud engineer with two years of experience. I develop, implement, operate, and monitor cloud workloads, CI/CD pipelines, configuration management, and infrastructure as code. 
 
 <!-- 👉 I am looking for a `DevOps` role Preferably in the blockcahin industry at the moment. -->
 ## Skills and Experience
