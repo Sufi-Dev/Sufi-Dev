@@ -15,7 +15,7 @@
   
 ## 🧰 Tech Stack
 <img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/azure.svg" width="10%"/>
-Microsoft Azure
+## Microsoft Azure
 
 <img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/aws.svg" width="15%"/>
 
