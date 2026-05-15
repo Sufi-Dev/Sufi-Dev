@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/profile_img.png" width="80%" height="40%" alt="banner" />
+<img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/profile_img.png" width="100%" height="40%" alt="banner" />
 
 <strong><code>📊 Data Engineer | ⚙️ Pipeline Builder | 🏗️ Cloud Architect | 🤖 MLOps | 🧠 Systems Design</code></strong>
 
