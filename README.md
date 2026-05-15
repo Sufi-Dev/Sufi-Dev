@@ -35,3 +35,8 @@ GCP Big Data Platforms : BigQuery, Cloud Data Fusion, Dataproc, Pub/Sub, Dataflo
 Automation : Terraform, Powershell, Bash, Linux, Nginx, Jenkins, Ansible
 Microservices: Docker, Kubernetes, Helm, Prometheus, 
 Versioning : Git, Azure DevOps, GitLab
+
+## <img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/map.png" width="2%"/> Recent Projects 
+<img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/map.png" width="2%"/> <a href="https://github.com/Sufi-Dev/Blue-Green-Deployment"> Blue Green Architecture. </a> </br>
+<img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/map.png" width="2%"/> <a href="https://github.com/Sufi-Dev/.NET-API-CI-CD-Workflow"> .NET API CI/CD Workflow 
+ </a> </br> 
