@@ -14,7 +14,8 @@
 - Data infrastructure engineering and workflow automation
   
 ## 🧰 Tech Stack
+<img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/azure.svg" width="10%"/>
+Microsoft Azure
 
-<img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/azure.svg" width="5%"/><img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/aws.svg" width="5%"/>
-
+<img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/aws.svg" width="15%"/>
 
