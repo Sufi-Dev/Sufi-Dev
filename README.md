@@ -214,10 +214,7 @@ PowerShell
 
 🗺️ <a href="https://github.com/Sufi-Dev/Blue-Green-Deployment">
 Blue Green Deployment Architecture
-</a>
-
-<br>
-
+</a> </br>
 🗺️ <a href="https://github.com/Sufi-Dev/.NET-API-CI-CD-Workflow">
 .NET API CI/CD Workflow
 </a>
