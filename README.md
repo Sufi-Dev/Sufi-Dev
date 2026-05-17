@@ -113,8 +113,6 @@ T-SQL
 </tr>
 </table>
 
----
-
 ## ⚙️ Automation & DevOps
 
 <table>
