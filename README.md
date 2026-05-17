@@ -1,42 +1,225 @@
 <div align="center">
 
-<img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/profile_img.png" width="100%" height="40%" alt="banner" />
+<img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/profile_img.png" width="100%" alt="banner" />
 
-<strong><code>📊 Data Engineer | ⚙️ Pipeline Builder | 🏗️ Cloud Architect | 🤖 MLOps | 🧠 Systems Design</code></strong>
+# Sufi Dev
+
+<strong>
+📊 Data Engineer | ⚙️ Pipeline Builder | 🏗️ Cloud Architect | 🤖 MLOps | 🧠 Systems Design
+</strong>
 
 </div>
 
-## 👨🏻‍💻 What I Do
+---
+
+# 👨🏻‍💻 What I Do
 
 - Data engineering: ETL/ELT, batch and streaming pipeline design at scale
 - Cloud architecture and large-scale platform migrations
 - MLOps: model deployment, monitoring, and production scaling
 - Data infrastructure engineering and workflow automation
-  
-## 🧰 Tech Stack
 
-Cloud : <img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/azure.svg" width="10%"/> <img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/aws.svg" width="15%"/>
+---
 
-Data Platform:  BigQuery, ApacheSpark, 
-Azure DevOps
-Programming Languages: <img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/python.svg" width="5%"/> <img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/bash.svg" width="5%"/> <img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/java.svg" width="5%"/> Javascrip, 
+# 🧰 Tech Stack
 
-Databases: SQL, T-SQL, NoSQL, MySQL, Mongodb
-<img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/nosql.svg" width="5%"/>  <img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/mysql.svg" width="5%"/>     <img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/mongodb.svg" width="5%"/> 
+## ☁️ Cloud & Big Data Platforms
 
+<table>
+<tr>
 
-<img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/nosql.svg" width="5%"/>
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/microsoftazure" width="50"/><br>
+Azure
+</td>
 
-Big Data Platforms: ApacheSpark, Apache Airflow, Apache Kafka, Hadoop,  
-Azure Big Data Platforms : Databricks, Azure DataFactory, Azure Synapse, Azure Event Hub, Azure Stream Analytics.
-AWS Big Data Platforms : Amazon Redshift, Amazon Glue, Amazon EMR, Amazon Kinesis, Amazon Apache Flink
-GCP Big Data Platforms : BigQuery, Cloud Data Fusion, Dataproc, Pub/Sub, Dataflow.
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/amazonaws" width="50"/><br>
+AWS
+</td>
 
-Automation : Terraform, Powershell, Bash, Linux, Nginx, Jenkins, Ansible
-Microservices: Docker, Kubernetes, Helm, Prometheus, 
-Versioning : Git, Azure DevOps, GitLab
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/googlecloud" width="50"/><br>
+GCP
+</td>
 
-## <img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/map.png" width="2%"/> Recent Projects 
-<img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/map.png" width="2%"/> <a href="https://github.com/Sufi-Dev/Blue-Green-Deployment"> Blue Green Architecture. </a> </br>
-<img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/map.png" width="2%"/> <a href="https://github.com/Sufi-Dev/.NET-API-CI-CD-Workflow">A .NET API CI/CD Workflow 
- </a> </br> 
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/databricks" width="50"/><br>
+Databricks
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/googlebigquery" width="50"/><br>
+BigQuery
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/apacheairflow" width="50"/><br>
+Airflow
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/apachekafka" width="50"/><br>
+Kafka
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/apachespark" width="50"/><br>
+Spark
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/apachehadoop" width="50"/><br>
+Hadoop
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/apacheflink" width="50"/><br>
+Flink
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/mysql" width="50"/><br>
+MySQL
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/mongodb" width="50"/><br>
+MongoDB
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/postgresql" width="50"/><br>
+SQL
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/microsoftsqlserver" width="50"/><br>
+T-SQL
+</td>
+
+</tr>
+</table>
+
+---
+
+## ⚙️ Automation & DevOps
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/terraform" width="50"/><br>
+Terraform
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/ansible" width="50"/><br>
+Ansible
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/jenkins" width="50"/><br>
+Jenkins
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/githubactions" width="50"/><br>
+GitHub Actions
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/gitlab" width="50"/><br>
+GitLab
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/docker" width="50"/><br>
+Docker
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/kubernetes" width="50"/><br>
+Kubernetes
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/helm" width="50"/><br>
+Helm
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/prometheus" width="50"/><br>
+Prometheus
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/nginx" width="50"/><br>
+Nginx
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/python" width="50"/><br>
+Python
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/javascript" width="50"/><br>
+JavaScript
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/java" width="50"/><br>
+Java
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/gnubash" width="50"/><br>
+Bash
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/powershell" width="50"/><br>
+PowerShell
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 Recent Projects
+
+🗺️ <a href="https://github.com/Sufi-Dev/Blue-Green-Deployment">
+Blue Green Deployment Architecture
+</a>
+
+<br>
+
+🗺️ <a href="https://github.com/Sufi-Dev/.NET-API-CI-CD-Workflow">
+.NET API CI/CD Workflow
+</a>
