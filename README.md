@@ -29,17 +29,17 @@
 <tr>
 
 <td align="center" width="120">
-<img src="https://cdn.simpleicons.org/microsoftazure" width="50"/><br>
+<img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/azure.svg" width="50"/><br>
 Azure
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.simpleicons.org/amazonaws" width="50"/><br>
+<img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/aws.svg" width="50"/><br>
 AWS
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.simpleicons.org/googlecloud" width="50"/><br>
+<img src="https://github.com/Sufi-Dev/Sufi-Dev/blob/main/icons/gcp.svg" width="50"/><br>
 GCP
 </td>
 
